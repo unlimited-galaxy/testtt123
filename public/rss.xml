@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MidoChia</title>
+    <link>https://midochia.github.io/</link>
+    
+    <image>
+      <url>https://midochia.github.io/icon.png</url>
+      <title>MidoChia</title>
+      <link>https://midochia.github.io/</link>
+    </image>
+    
+    <atom:link href="https://midochia.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>All about Midori and Chiaki’s relationship.</description>
+    <pubDate>Mon, 20 Sep 2021 06:00:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>testing</title>
+      <link>https://midochia.github.io/hello/</link>
+      <guid>https://midochia.github.io/hello/</guid>
+      <pubDate>Mon, 20 Sep 2021 06:00:00 GMT</pubDate>
+      
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://midochia.github.io/hello/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
