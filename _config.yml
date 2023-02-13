@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://midochia.github.io/
+url: https://unlimitedgalaxy.github.io/
 root:
 permalink: :title/
 permalink_defaults:
@@ -114,7 +114,7 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/midochia/midochia.github.io
+  repo: https://github.com/midochia/unlimitedgalaxy.github.io
   branch: main
   message: "{{ now('MM/DD/YYYY HH:mm:ss') }}"
 
