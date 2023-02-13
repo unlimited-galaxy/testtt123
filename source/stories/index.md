@@ -1,5 +1,5 @@
 ---
-title: MidoChia Story Recommendation List
+title: Story Recommendation List
 description: TBA
 ---
 
@@ -95,7 +95,9 @@ description: TBA
 
 ## Introduction
 
-So you'd like to know more about Midori and Chiaki's relationship, and want to know which stories to read. Look no further! In here you'll find a recommendation list listed in **timeline** order.
+In here you'll find a list of story recommendations for different parts of Ryuseitai. It will be expanded further as time goes on!
+
+Click [here](/red_green/) for Midori and Chiaki's relationship!
 
 ## Spring
 <div class="stories">

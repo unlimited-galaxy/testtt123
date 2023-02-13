@@ -1,5 +1,5 @@
 ---
-title: All About the MidoChia Site
+title: All About the Unlimited Galaxy Site
 description: TBA
 ---
 

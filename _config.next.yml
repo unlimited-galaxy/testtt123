@@ -205,7 +205,7 @@ footer:
     color: ""
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
-  copyright: MidoChia
+  copyright: Unlimited Galaxy
 
   # Powered by Hexo & NexT
   powered: false
