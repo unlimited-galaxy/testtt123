@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MidoChia</title>
-    <link>https://unlimitedgalaxy.github.io/</link>
+    <link>https://unlimited-galaxy.github.io/</link>
     
     <image>
-      <url>https://unlimitedgalaxy.github.io/icon.png</url>
+      <url>https://unlimited-galaxy.github.io/icon.png</url>
       <title>MidoChia</title>
-      <link>https://unlimitedgalaxy.github.io/</link>
+      <link>https://unlimited-galaxy.github.io/</link>
     </image>
     
-    <atom:link href="https://unlimitedgalaxy.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://unlimited-galaxy.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>All about Midori and Chiaki’s relationship.</description>
     <pubDate>Mon, 20 Sep 2021 06:00:00 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>testing</title>
-      <link>https://unlimitedgalaxy.github.io/hello/</link>
-      <guid>https://unlimitedgalaxy.github.io/hello/</guid>
+      <link>https://unlimited-galaxy.github.io/hello/</link>
+      <guid>https://unlimited-galaxy.github.io/hello/</guid>
       <pubDate>Mon, 20 Sep 2021 06:00:00 GMT</pubDate>
       
       <description>&lt;p&gt;test&lt;/p&gt;</description>
@@ -31,7 +31,7 @@
       
       
       
-      <comments>https://unlimitedgalaxy.github.io/hello/#disqus_thread</comments>
+      <comments>https://unlimited-galaxy.github.io/hello/#disqus_thread</comments>
       
     </item>
     
