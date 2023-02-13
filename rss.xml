@@ -3,18 +3,18 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MidoChia</title>
+    <title>Unlimited Galaxy</title>
     <link>https://unlimited-galaxy.github.io/</link>
     
     <image>
       <url>https://unlimited-galaxy.github.io/icon.png</url>
-      <title>MidoChia</title>
+      <title>Unlimited Galaxy</title>
       <link>https://unlimited-galaxy.github.io/</link>
     </image>
     
     <atom:link href="https://unlimited-galaxy.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
-    <description>All about Midori and Chiaki’s relationship.</description>
+    <description>Where shooting stars align towards the same goal.</description>
     <pubDate>Mon, 20 Sep 2021 06:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
