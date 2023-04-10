@@ -97,7 +97,7 @@ description: TBA
 
 In here you'll find a list of story recommendations for different parts of Ryuseitai. It will be expanded further as time goes on!
 
-Click [here](/red_green/) for Midori and Chiaki's relationship!
+<!--Click [here](/red_green/) for Midori and Chiaki's relationship!-->
 
 ## Spring
 <div class="stories">
